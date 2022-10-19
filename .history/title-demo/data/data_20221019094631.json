@@ -1,0 +1,44 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "img": "https://avatars.githubusercontent.com/u/227713?v=4&s=120",
+            "title": "我的Node.js十年 -- 写在NodeParty2022前夕",
+            "visit_count": 48410,
+            "apply_count": 13,
+            "top": true,
+            "good": true,
+            "type": "ask"
+        },
+        {
+            "id": 2,
+            "img": "https://avatars.githubusercontent.com/u/156269?v=4&s=120",
+            "title": "中国npm镜像源升级公告",
+            "visit_count": 124269,
+            "apply_count": 37,
+            "top": true,
+            "good": true,
+            "type": "share"
+        },
+        {
+            "id": 3,
+            "img": "https://avatars.githubusercontent.com/u/3118295?v=4&s=120",
+            "title": "Node.js2021年开发者报告解读：健康稳步的发展中",
+            "visit_count": 210906,
+            "apply_count": 14,
+            "top": true,
+            "good": true,
+            "type": "job"
+        },
+        {
+            "id": 4,
+            "img": "https://avatars.githubusercontent.com/u/227713?v=4&s=120",
+            "title": "Node.js18新特性解读",
+            "visit_count": 46051,
+            "apply_count": 18,
+            "top": true,
+            "good": true,
+            "type": "dev"
+        }
+    ]
+}
